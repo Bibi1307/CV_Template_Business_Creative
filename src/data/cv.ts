@@ -103,11 +103,9 @@ export const cvData: CVData = {
       "Reels / Short-form",
     ],
     phone: "[0901 234 567]",
-    email: "[ten.cua.ban@email.com]",
-    address: "[Quận/Huyện, TP. Hồ Chí Minh]",
-    portfolio: "https://behance.net/[username]",
-    linkedin: "https://linkedin.com/in/[username-linkedin]",
-    instagram: "https://instagram.com/[username]",
+    email: "[giaannghi07@email.com]",
+    address: "[Phường Long An, Tây Ninh]",
+    instagram: "https://instagram.com/[bibi090713]",
   },
 
   creativeSkills: {
