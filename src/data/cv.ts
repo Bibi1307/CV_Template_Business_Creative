@@ -45,7 +45,7 @@ export interface Activity {
   description: string;
 }
 
-/** Kinh nghiệm làm việc / thực tập — tên công ty, chức vụ, thời gian, bullet + KPI */
+/** Kinh nghiệm làm việc / thực tập — Trung Cấp Công Nghệ & Du Lịch, S, thời gian, bullet + KPI */
 export interface WorkExperience {
   company: string;
   role: string;
@@ -87,12 +87,12 @@ export const cvMeta = {
   siteUrl: "https://cv-business-creative.example.com",
   siteTitle: "Business Creative — CV Designer & Content Creator",
   description:
-    "Mẫu CV một trang A4 cho thiết kế hình ảnh, sáng tạo nội dung và visual brand — responsive, ATS-friendly, export PDF/DOCX.",
+    "Mẫu CV một trang A4 cho thiết kế hình ảnh, ráng tạo nội dung, ATS-friendly, export PDF/DOCX.",
 } as const;
 
 export const cvData: CVData = {
   header: {
-    fullName: "[NGUYỄN VĂN A]",
+    fullName: "[BÙI NGỌC YẾN VY]",
     position: "[Content Creator / Graphic Designer] Intern",
     tagline:
       "Đam mê kể chuyện bằng hình ảnh và nội dung số — mong tạo ra những ấn phẩm visual nhất quán, có chiều sâu thương hiệu.",
