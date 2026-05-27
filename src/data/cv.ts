@@ -45,7 +45,7 @@ export interface Activity {
   description: string;
 }
 
-/** Kinh nghiệm làm việc / thực tập — Trung Cấp Công Nghệ & Du Lịch, S, thời gian, bullet + KPI */
+/** Kinh nghiệm làm việc / thực tập — Trung Cấp Công Nghệ & Du Lịch, Thực tập sinh, 2025 - 2026, bullet + KPI */
 export interface WorkExperience {
   company: string;
   role: string;
