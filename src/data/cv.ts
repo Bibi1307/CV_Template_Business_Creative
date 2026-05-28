@@ -92,7 +92,7 @@ export const cvMeta = {
 
 export const cvData: CVData = {
   header: {
-    fullName: "[BÙI NGỌC YẾN VY]",
+    fullName: "[BÙI NGỌC YẾN VY aq]",
     position: "[Content Creator / Graphic Designer] Intern",
     tagline:
       "Đam mê kể chuyện bằng hình ảnh và nội dung số — mong tạo ra những ấn phẩm visual nhất quán, có chiều sâu thương hiệu.",
