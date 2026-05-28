@@ -102,7 +102,7 @@ export const cvData: CVData = {
       "Brand Identity",
       "Reels / Short-form",
     ],
-    phone: "[0901 112 222S]",
+    phone: "[0386 138 751]",
     email: "[giaannghi07@email.com]",
     address: "[Phường Long An, Tây 	Ninh]",
     instagram: "https://instagram.com/[bibi090713]",
@@ -118,15 +118,13 @@ export const cvData: CVData = {
     content: [
       "Copywriting ngắn",
       "Content Calendar",
-      "Script Reels/TikTok",
+      "Script TikTok",
       "Hashtag Strategy",
     ],
     software: [
       "Adobe Photoshop",
       "Illustrator",
-      "Premiere Pro",
-      "Figma",
-      "Canva Pro",
+      "Canva",
     ],
     media: [
       "Instagram",
