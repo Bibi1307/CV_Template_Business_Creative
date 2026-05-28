@@ -92,7 +92,7 @@ export const cvMeta = {
 
 export const cvData: CVData = {
   header: {
-    fullName: "[BÙI NGỌC YẾN VY A]",
+    fullName: "[BÙI NGỌC YẾN VY]",
     position: "[Content Creator / Graphic Designer] Intern",
     tagline:
       "Đam mê kể chuyện bằng hình ảnh và nội dung số — mong tạo ra những ấn phẩm visual nhất quán, có chiều sâu thương hiệu.",
@@ -102,12 +102,10 @@ export const cvData: CVData = {
       "Brand Identity",
       "Reels / Short-form",
     ],
-    phone: "[0901 234 567]",
-    email: "[ten.cua.ban@email.com]",
-    address: "[Quận/Huyện, TP. Hồ Chí Minh]",
-    portfolio: "https://behance.net/[username]",
-    linkedin: "https://linkedin.com/in/[username-linkedin]",
-    instagram: "https://instagram.com/[username]",
+    phone: "[0901 112 222S]",
+    email: "[giaannghi07@email.com]",
+    address: "[Phường Long An, Tây 	Ninh]",
+    instagram: "https://instagram.com/[bibi090713]",
   },
 
   creativeSkills: {
@@ -135,7 +133,6 @@ export const cvData: CVData = {
       "TikTok",
       "Facebook Ads",
       "CapCut",
-      "Lightroom",
     ],
   },
 
@@ -147,7 +144,7 @@ export const cvData: CVData = {
   languages: [
     {
       name: "Tiếng Anh",
-      level: "Đọc brief, viết caption và trao đổi ý tưởng creative với team",
+      level: "Giao tiếp cơ bản hằng ngày",
     },
     { name: "Tiếng Việt", level: "Bản ngữ · copywriting" },
   ],
@@ -157,9 +154,9 @@ export const cvData: CVData = {
 
   education: [
     {
-      school: "[Đại học Mỹ thuật TP.HCM / Học viện FPT Arena]",
-      major: "[Thiết kế Đồ họa / Truyền thông Đa phương tiện]",
-      period: "[2021 – 2025]",
+      school: "[Trung Cấp Công Nghệ & Du Lịch]",
+      major: "[Thiết kế Đồ họa / Truyền thông]",
+      period: "[2024 – 2026]",
       gpa: "GPA [3.5/4.0]",
     },
   ],
