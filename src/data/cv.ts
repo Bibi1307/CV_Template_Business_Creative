@@ -196,7 +196,7 @@ export const cvData: CVData = {
         "Viết caption + script 4 Reels giới thiệu sản phẩm; tăng ~35% tương tác so với mức trung bình trang trước đó.",
         "Trình bày case study trên Behance — được giảng viên chọn trưng bày cuối khóa.",
       ],
-      result: "Điểm đồ án [9.2/10]",
+      result: "Điểm đồ án [9/10]",
       portfolioUrl: "https://behance.net/[username]/[fnb-rebrand]",
     },
     {
