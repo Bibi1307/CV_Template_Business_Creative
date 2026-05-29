@@ -145,7 +145,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
   ],
 
   careerObjective:
-    "Sinh viên [Thiết kế Đồ họa / Truyền thông] hướng tới vai trò [Content Creator & Designer] tại agency hoặc in-house brand. Tôi kết hợp mắt thẩm mỹ, tư duy nội dung và nhịp làm việc nhanh để sản xuất bộ nhận diện, post social và video ngắn đồng bộ. Mong được học hỏi quy trình brief–concept–delivery từ team senior và đóng góp ý tưởng fresh cho chiến dịch thực tế.",
+    "Sinh viên [Thiết kế Đồ họa / Truyền thông] định hướng trở thành vai trò [Content Creator & Designer] tại agency hoặc in-house brand. Có khả năng sản xuất đồng bộ nhận diện, bài đăng mạng xã hội và video ngắn nhờ tư duy thẩm mỹ tốt. Mong muốn làm việc cùng Senior để làm chủ quy trình brief-concept-delivery và cống hiến cho chiến dịch ủa doanh nghiệp .",
 
   education: [
     {
@@ -187,7 +187,6 @@ fullName: "[BÙI NGỌC YẾN VY]",
       summary:
         "Xây dựng concept nhận diện và bộ post launch cho quán cà phê specialty — tone ấm, hiện đại, Gen Z.",
       bullets: [
-        "Phát triển logo, palette, typography và 12 template post đồng bộ trên Figma.",
         "Viết caption + script 4 Reels giới thiệu sản phẩm; tăng ~35% tương tác so với mức trung bình trang trước đó.",
         "Trình bày case study trên Behance — được giảng viên chọn trưng bày cuối khóa.",
       ],
@@ -207,14 +206,13 @@ fullName: "[BÙI NGỌC YẾN VY]",
         "Video recap đạt [120K+ views] organic; học cách A/B test thumbnail và hook 3 giây đầu.",
       ],
       result: "Hoàn thành đúng timeline · Nhận feedback tích cực từ ban tổ chức",
-      portfolioUrl: "https://behance.net/[username]/[student-week]",
     },
   ],
 
   activities: [
     {
-      title: "[CLB Truyền thông & Sáng tạo — ĐH]",
-      period: "[2022 – nay]",
+      title: "[CLB Truyền thông & Sáng tạo — TC]",
+      period: "[2025 – nay]",
       description:
         "Thiết kế poster sự kiện, cover album yearbook và hỗ trợ quay/edit highlight cuối năm.",
     },
