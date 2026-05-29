@@ -145,7 +145,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
   ],
 
   careerObjective:
-    "Sinh viên [Thiết kế Đồ họa / Truyền thông] định hướng trở thành vai trò [Content Creator & Designer] tại agency hoặc in-house brand. Có khả năng sản xuất đồng bộ nhận diện, bài đăng mạng xã hội và video ngắn nhờ tư duy thẩm mỹ tốt. Mong muốn làm việc cùng Senior để làm chủ quy trình brief-concept-delivery và cống hiến cho chiến dịch ủa doanh nghiệp .",
+    "Sinh viên [Thiết kế Đồ họa / Truyền thông] định hướng trở thành vai trò [Content Creator & Designer] tại agency hoặc in-house brand. Có khả năng sản xuất đồng bộ nhận diện, bài đăng mạng xã hội và video ngắn nhờ tư duy thẩm mỹ tốt. Mong muốn làm việc cùng Senior để làm chủ quy trình brief-concept-delivery và cống hiến cho chiến dịch của doanh nghiệp .",
 
   education: [
     {
