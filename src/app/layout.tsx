@@ -34,7 +34,6 @@ const personJsonLd = buildPersonJsonLd({
   name: cvData.header.fullName,
   jobTitle: cvData.header.position,
   email: cvData.header.email,
-  url: cvData.header.portfolio,
   address: cvData.header.address,
 });
 

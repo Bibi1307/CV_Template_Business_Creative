@@ -62,9 +62,6 @@ export interface CVData {
     phone: string;
     email: string;
     address: string;
-    /** Behance / Dribbble / website portfolio — bắt buộc */
-    portfolio: string;
-    linkedin: string;
     instagram?: string;
   };
   creativeSkills: {

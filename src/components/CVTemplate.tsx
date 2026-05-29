@@ -147,16 +147,6 @@ export default function CVTemplate({
                 href={`mailto:${header.email}`}
               />
               <ContactItem label={labels.contact.location} value={header.address} />
-              <ContactItem
-                label={labels.contact.portfolio}
-                value={stripUrl(header.portfolio)}
-                href={header.portfolio}
-              />
-              <ContactItem
-                label={labels.contact.linkedin}
-                value={stripUrl(header.linkedin)}
-                href={header.linkedin}
-              />
               {header.instagram && (
                 <ContactItem
                   label={labels.contact.instagram}

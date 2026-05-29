@@ -27,9 +27,6 @@ export async function exportCvToDocx(data: CVData): Promise<Blob> {
         ),
       ],
     }),
-    new Paragraph({
-      children: [new TextRun(`Portfolio: ${header.portfolio} | LinkedIn: ${header.linkedin}`)],
-    }),
     new Paragraph({ text: "" }),
   );
 
