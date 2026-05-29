@@ -216,10 +216,6 @@ fullName: "[BÙI NGỌC YẾN VY]",
       description:
         "Thiết kế poster sự kiện, cover album yearbook và hỗ trợ quay/edit highlight cuối năm.",
     },
-    {
-      title: "[Workshop “Visual Storytelling 101”]",
-      period: "[03/2024]",
-      description: "Facilitator nhóm 15 bạn — chia sẻ quy trình moodboard → layout → publish.",
-    },
+   
   ],
 };
