@@ -84,7 +84,7 @@ export const cvMeta = {
   siteUrl: "https://cv-business-creative.example.com",
   siteTitle: "Business Creative — CV Designer & Content Creator",
   description:
-    "Mẫu CV một trang A4 cho thiết kế hình ảnh, ráng tạo nội dung, ATS-friendly, export PDF/DOCX.",
+    "Mẫu CV một trang A4 cho thiết kế hình ảnh, nhà áng tạo nội dung, ATS-friendly, export PDF/DOCX.",
 } as const;
 
 export const cvData: CVData = {
@@ -92,7 +92,7 @@ export const cvData: CVData = {
 fullName: "[BÙI NGỌC YẾN VY]",
     position: "[Content Creator / Graphic Designer] Intern",
     tagline:
-      "Đam mê kể chuyện bằng hình ảnh và nội dung số — mong tạo ra những ấn phẩm visual nhất quán, có chiều sâu thương hiệu.",
+      "Người kể chuyện bằng hình ảnh, đam mê thổi hồn vào từng sản phẩm qua lăng kinh sáng táo.",
     highlights: [
       "Visual Storytelling",
       "Social Content",
@@ -133,7 +133,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
 
   certifications: [
     { name: "[Google Digital Garage]", detail: "Fundamentals of Digital Marketing — [2024]" },
-    { name: "[Adobe Certified Professional]", detail: "Visual Design — [2023]" },
+    { name: "[Adobe Certified Professional]", detail: "Visual Design — [2025]" },
   ],
 
   languages: [
@@ -152,7 +152,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
       school: "[Trung Cấp Công Nghệ & Du Lịch]",
       major: "[Thiết kế Đồ họa / Truyền thông]",
       period: "[2024 – 2026]",
-      gpa: "GPA [3.5/4.0]",
+      gpa: "GPA [3.0/4.0]",
     },
   ],
 
@@ -170,10 +170,10 @@ fullName: "[BÙI NGỌC YẾN VY]",
     {
       company: "[Freelance — Visual & Social]",
       role: "[Junior Designer]",
-      period: "[2023 – nay]",
+      period: "[2024 – nay]",
       bullets: [
-        "Nhận 5+ dự án nhỏ (F&B, lifestyle): logo, menu, template Canva và lịch đăng 2 tuần.",
-        "Duy trì NPS khách hàng 4.8/5 nhờ giao hàng đúng hạn và 2 vòng revision miễn phí.",
+        "Nhận 5+ dự án nhỏ (F&B, lifestyle): logo, menu.",
+        "Duy trì NPS khách hàng 4.4/5 nhờ giao hàng đúng hạn và 2 vòng revision miễn phí.",
       ],
     },
   ],
@@ -183,7 +183,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
       name: "[Rebrand Concept — Thương hiệu F&B địa phương]",
       role: "Lead Designer · Content",
       period: "[02 – 05/2024]",
-      tools: ["Illustrator", "Photoshop", "Figma", "Instagram"],
+      tools: ["Illustrator", "Photoshop", "Instagram"],
       summary:
         "Xây dựng concept nhận diện và bộ post launch cho quán cà phê specialty — tone ấm, hiện đại, Gen Z.",
       bullets: [
@@ -198,7 +198,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
       name: "[Chiến dịch Social — Tuần lễ Sinh viên]",
       role: "Visual & Content Creator",
       period: "[09 – 11/2023]",
-      tools: ["Premiere Pro", "CapCut", "Canva", "TikTok", "Facebook"],
+      tools: ["CapCut", "Canva", "TikTok", "Facebook"],
       summary:
         "Sản xuất visual và nội dung cho chiến dịch 3 tuần trên TikTok + Facebook — 20+ ấn phẩm static & 6 video ngắn.",
       bullets: [
