@@ -92,7 +92,7 @@ export const cvData: CVData = {
 fullName: "[BÙI NGỌC YẾN VY]",
     position: "[Content Creator / Graphic Designer] Intern",
     tagline:
-      "Người kể chuyện bằng hình ảnh, đam mê thổi hồn vào từng sản phẩm qua lăng kinh sáng táo.",
+      "Người kể chuyện bằng hình ảnh, đam mê thổi hồn vào từng sản phẩm qua lăng kinh sáng tạo.",
     highlights: [
       "Visual Storytelling",
       "Social Content",
