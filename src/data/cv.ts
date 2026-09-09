@@ -132,8 +132,8 @@ fullName: "[BÙI NGỌC YẾN VY]",
   },
 
   certifications: [
-    { name: "[Google Digital Garage]", detail: "Fundamentals of Digital Marketing — [2024]" },
-    { name: "[Adobe Certified Professional]", detail: "Visual Design — [2025]" },
+    { name: "[Google Digital Garage]", detail: "Fundamentals of Digital Marketing — [2025]" },
+    { name: "[Adobe Certified Professional]", detail: "Visual Design — [2026]" },
   ],
 
   languages: [
@@ -151,7 +151,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
     {
       school: "[Trung Cấp Công Nghệ & Du Lịch]",
       major: "[Thiết kế Đồ họa / Truyền thông]",
-      period: "[2024 – 2026]",
+      period: "[2025 – 2026]",
       gpa: "GPA [3.0/4.0]",
     },
   ],
@@ -160,7 +160,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
     {
       company: "[Agency XYZ / In-house Brand ABC]",
       role: "[Creative Intern — Design & Content]",
-      period: "[06 – 08/2024]",
+      period: "[06 – 08/2025]",
       bullets: [
         "Hỗ trợ thiết kế 15+ post social/tuần theo brand guideline; giảm ~20% vòng chỉnh sửa nhờ checklist QA nội bộ.",
         "Viết caption và storyboard 8 Reels; tăng tương tác trung bình ~28% so với tháng trước.",
@@ -170,7 +170,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
     {
       company: "[Freelance — Visual & Social]",
       role: "[Junior Designer]",
-      period: "[2024 – nay]",
+      period: "[2025 – nay]",
       bullets: [
         "Nhận 5+ dự án nhỏ (F&B, lifestyle): logo, menu.",
         "Duy trì NPS khách hàng 4.4/5 nhờ giao hàng đúng hạn và 2 vòng revision miễn phí.",
@@ -182,7 +182,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
     {
       name: "[Rebrand Concept — Thương hiệu F&B địa phương]",
       role: "Lead Designer · Content",
-      period: "[02 – 05/2024]",
+      period: "[02 – 05/2025]",
       tools: ["Illustrator", "Photoshop", "Instagram"],
       summary:
         "Xây dựng concept nhận diện và bộ post launch cho quán cà phê specialty — tone ấm, hiện đại, Gen Z.",
@@ -196,7 +196,7 @@ fullName: "[BÙI NGỌC YẾN VY]",
     {
       name: "[Chiến dịch Social — Tuần lễ Sinh viên]",
       role: "Visual & Content Creator",
-      period: "[09 – 11/2023]",
+      period: "[09 – 11/2025]",
       tools: ["CapCut", "Canva", "TikTok", "Facebook"],
       summary:
         "Sản xuất visual và nội dung cho chiến dịch 3 tuần trên TikTok + Facebook — 20+ ấn phẩm static & 6 video ngắn.",
